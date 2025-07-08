@@ -1,7 +1,7 @@
 # 🩺 Heathcare-cost-analysis-python
 Python project analyzing what drives healthcare costs using real-world data
 
-This project explores the drivers behind medical insurance charges using real-world healthcare data (2,700+ patient records). It focuses on applying core data analyst skills using Python — including data cleaning, exploration, and insight extraction — without machine learning.
+This project explores the drivers behind medical insurance charges using real-world healthcare data (2,700+ patient records). The goal is to deliver actionable business insights that health insurance companies can use to optimize pricing, manage risk, and improve profitability.
 
 ## 📌 Project Objectives
 
